@@ -1,5 +1,11 @@
 # omniStack11
 
+## Stack
+
+1. Back-end: NodeJs + Express + SQLite
+2. Front-end: React (JSX JavaScript XML)
+3. Mobile: React Native + Expo
+
 ## Rota / Recurso
 
 ## Métodos HTTP:
